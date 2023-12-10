@@ -1,0 +1,6 @@
+com/bit/gatewayservice/config/AppConfig.class
+com/bit/gatewayservice/GatewayServiceApplication.class
+com/bit/gatewayservice/filter/AuthenticationFilter.class
+com/bit/gatewayservice/filter/AuthenticationFilter$Config.class
+com/bit/gatewayservice/filter/RouteValidator.class
+com/bit/gatewayservice/util/JwtUtil.class

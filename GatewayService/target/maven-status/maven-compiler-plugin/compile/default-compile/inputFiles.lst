@@ -1,0 +1,5 @@
+/home/emirhan/Desktop/SpringBoot_Clone/GatewayService/src/main/java/com/bit/gatewayservice/util/JwtUtil.java
+/home/emirhan/Desktop/SpringBoot_Clone/GatewayService/src/main/java/com/bit/gatewayservice/filter/RouteValidator.java
+/home/emirhan/Desktop/SpringBoot_Clone/GatewayService/src/main/java/com/bit/gatewayservice/filter/AuthenticationFilter.java
+/home/emirhan/Desktop/SpringBoot_Clone/GatewayService/src/main/java/com/bit/gatewayservice/config/AppConfig.java
+/home/emirhan/Desktop/SpringBoot_Clone/GatewayService/src/main/java/com/bit/gatewayservice/GatewayServiceApplication.java

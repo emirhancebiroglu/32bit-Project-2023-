@@ -1,0 +1,8 @@
+com/bit/auth/service/service_impl/CustomUserDetailsServiceImpl.class
+com/bit/auth/service/service_impl/JwtServiceImpl.class
+com/bit/auth/controller/AuthController.class
+com/bit/auth/service/service_impl/UserDetailsImpl.class
+com/bit/auth/service/JwtService.class
+com/bit/auth/dto/LoginRequest.class
+com/bit/auth/config/SecurityConfig.class
+com/bit/auth/AuthApplication.class
